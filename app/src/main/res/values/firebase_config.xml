@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_application_id" translatable="false">1:940877577417:android:0180e66346caa1e6f7a118</string>
+    <string name="firebase_api_key" translatable="false">AIzaSyCrUpyKAVokWeD8xjBHFa53e76fs_SKIO0</string>
+    <string name="firebase_project_id" translatable="false">campusevents-87831</string>
+    <string name="firebase_sender_id" translatable="false">940877577417</string>
+    <string name="firebase_storage_bucket" translatable="false">campusevents-87831.firebasestorage.app</string>
+</resources>
