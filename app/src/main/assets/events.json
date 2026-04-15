@@ -1,0 +1,42 @@
+[
+  {
+    "id": "acm-001",
+    "title": "ACM Weekly Meeting",
+    "category": "ACM Meetings",
+    "time": "Mon, 6:30 PM - 8:00 PM",
+    "location": "Swearingen 2A11",
+    "description": "Join UofSC ACM for announcements, technical lightning talks, and small-group project check-ins. New members are welcome."
+  },
+  {
+    "id": "ims-201",
+    "title": "Intramural Indoor Soccer Registration Night",
+    "category": "Intramural Sports",
+    "time": "Tue, 7:00 PM - 8:30 PM",
+    "location": "Strom Thurmond Wellness Center",
+    "description": "Meet teammates, ask rec staff questions, and complete same-night team registration for the upcoming indoor season."
+  },
+  {
+    "id": "food-303",
+    "title": "Free Food Friday: Pancake Pop-Up",
+    "category": "Free Food",
+    "time": "Fri, 10:30 AM - 12:00 PM",
+    "location": "Russell House Patio",
+    "description": "The Student Government breakfast pop-up is first-come, first-served while supplies last. Bring your CarolinaCard."
+  },
+  {
+    "id": "acm-002",
+    "title": "ACM Resume + Internship Prep",
+    "category": "ACM Meetings",
+    "time": "Wed, 5:45 PM - 7:00 PM",
+    "location": "LeConte 112",
+    "description": "Peer resume critiques, interview warmups, and internship search tips from upperclassmen and alumni volunteers."
+  },
+  {
+    "id": "ims-202",
+    "title": "Intramural Flag Football Captains Briefing",
+    "category": "Intramural Sports",
+    "time": "Thu, 6:00 PM - 7:00 PM",
+    "location": "Blatt P.E. Center Room 201",
+    "description": "Captains review game rules, schedules, and sportsmanship standards before the first week of league play."
+  }
+]
