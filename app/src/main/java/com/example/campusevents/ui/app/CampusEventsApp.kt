@@ -160,7 +160,7 @@ private fun CampusEventsTopBar(
     val subtitle = when {
         route.startsWith(DETAIL_ROUTE) -> "Event info and reminders"
         route == SAVED_ROUTE -> "$savedCount reminders tracked"
-        else -> "Live feed, filters, and club meetings"
+        else -> "Meetings, activities, and free food around campus"
     }
 
     TopAppBar(

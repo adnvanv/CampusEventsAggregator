@@ -64,12 +64,12 @@ fun EventFeedScreen(
         item {
             Column(verticalArrangement = Arrangement.spacedBy(10.dp)) {
                 Text(
-                    text = "One feed for campus life",
+                    text = "Campus events this week",
                     style = MaterialTheme.typography.headlineSmall,
                     fontWeight = FontWeight.Bold
                 )
                 Text(
-                    text = "Browse club meetings, student events, and campus pop-ups in one place.",
+                    text = "Find club meetings, free food, and student activities happening around campus.",
                     style = MaterialTheme.typography.bodyLarge
                 )
                 Card(
@@ -83,9 +83,9 @@ fun EventFeedScreen(
                 ) {
                     Text(
                         text = if (uiState.usingFallbackData) {
-                            "Showing bundled sample events until Firebase is configured."
+                            "Showing sample events while the campus event board finishes connecting."
                         } else {
-                            "Firebase sync is active for live campus events."
+                            "Save anything that looks interesting and get reminded before it starts."
                         },
                         modifier = Modifier.padding(14.dp),
                         style = MaterialTheme.typography.bodyMedium
